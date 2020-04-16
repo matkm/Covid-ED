@@ -4,6 +4,8 @@
 
 repository: "USERNAME/REPO"
 
+theme: jekyll-theme-dinky
+
 # Name of your site (displayed in the header)
 title: Site Title
 
