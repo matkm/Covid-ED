@@ -2,8 +2,10 @@
 # This file contains configuration flags to customize your site
 #
 
+repository: "USERNAME/REPO"
+
 # Name of your site (displayed in the header)
-name: Your Name
+title: Site Title
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
@@ -73,14 +75,21 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
 # Exclude these files from your production _site
+# Add node_modules and vendor subdirectories as described in Jekyll docs
+# (see )"Configuration problems" in https://jekyllrb.com/docs/troubleshooting/)
 exclude:
   - Gemfile
   - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
   - LICENSE
   - README.md
   - CNAME
