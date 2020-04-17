@@ -5,6 +5,8 @@
 
 @import "variables";
 
+/* Post styles */
+
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
@@ -21,7 +23,7 @@
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
-    font-size: 22px;
+    font-size: 18px;
     font-style: italic;
   }
 
@@ -75,36 +77,21 @@ $text-color: #222222;
 
 @import "{{ site.theme }}";
 
-body {
-  font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-}
-
 h1, h2, h3 {
   font-family: Times, Monaco, serif;
-  font-weight: normal;
 }
 
 h4, h5, h6 {
   font-family: Times, Monaco, serif;
-  font-weight: 700;
-}
-
-code, pre {
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-  font-size:14px;
 }
 
 th {
-  font-family: 'Times', Helvetica, Arial, sans-serif;
-  font-size: 18px;
-  font-weight: normal;
+  font-family: Times, Helvetica, Arial, sans-serif;
  }
 
 h1.header {
   font-family: Times, sans-serif;
-  font-size: 30px;
-  font-weight: 300;
+  color:#C30000;
 }
 
 header a {
