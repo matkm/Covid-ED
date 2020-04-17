@@ -40,6 +40,36 @@
   color: $gray;
 }
 
+/* Post paginator styles */
+
+// $main-color: #008A3C;
+$main-color: #C30000;
+$background-color: #FDFDFD;
+$text-color: #222222;
+
+.pagination {
+  text-align: center;
+  margin: 2.666668em;
+  span {
+    background-color: darken($background-color, 5%);
+    color: $text-color;
+  }
+  a:hover {
+    background-color: lighten($main-color, 5%);
+  }
+}
+.page-item {
+  background-color: $main-color;
+  color: $background-color;
+  padding: 4px 8px;
+  font-weight: 400;
+  padding: 0.5em 1em;
+  -webkit-border-radius: 4px;
+     -moz-border-radius: 4px;
+      -ms-border-radius: 4px;
+          border-radius: 4px;
+}
+
 
 // Overridden theme styles
 
