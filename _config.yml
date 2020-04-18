@@ -84,6 +84,11 @@ plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
+# Search
+tipue_search:
+  include:
+    pages: true
+
 # Exclude these files from your production _site
 # Add node_modules and vendor subdirectories as described in Jekyll docs
 # (see )"Configuration problems" in https://jekyllrb.com/docs/troubleshooting/)
