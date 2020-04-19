@@ -1,6 +1,9 @@
 ---
-title: RPA ED COVID Update 3
+title: RPA COVID Update 3
+tag: fay
 ---
+
+[Link to PDF](https://drive.google.com/file/d/1GmHXomVKUg8Om22mBHrjWd1WCrdjSzuM/view)
 
 > *Welcome to the the RPA ED COVID updates.  
 We will endeavour to filter, summarise and forward current

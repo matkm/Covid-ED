@@ -14,7 +14,9 @@
 
 ## [ICU pages](pages/icu.md)
 
-## [UPDATES-Fay/ED](blog/index.html)
+## [UPDATES-Fay/ED](pages/updates.md)
+
+## [Blog](blog/index.html)
 
 ## [Zoom Teaching](pages/zoom.md)
 

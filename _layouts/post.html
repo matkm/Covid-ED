@@ -9,6 +9,15 @@ layout: default
     {{ page.date | date: "%e %b %Y" }}
   </div>
 
+  {% if page.tags.size > 0 %}
+    <p><em>
+      Tags:
+      {% for tag in page.tags %}
+        <a href="/tag/{{ tag }}"><code class="highligher-rouge"><nobr>{{ tag }}</nobr></code>&nbsp;</a>
+      {% endfor %}
+    </em></p>
+  {% endif %}
+
   <div class="entry">
     {{ content }}
   </div>
