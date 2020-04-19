@@ -1,21 +1,21 @@
 # Other links
 
-![Australasian College for Emergency Medicine](images/acem.png)
+![Australasian College for Emergency Medicine]({{site.baseurl}}/assets/images/acem.png)
 
 [Australasian College for Emergency Medicine](https://acem.org.au/COVID-19)
 
 
-![onthewards](images/onthewards.png)
+![onthewards]({{site.baseurl}}/assets/images/onthewards.png)
 
 [onthewards](https://onthewards.org/onthepods/)
 
 
-![CIAP](images/ciap.png)
+![CIAP]({{site.baseurl}}/assets/images/ciap.png)
 
 [CIAP-COVID resources](https://www.ciap.health.nsw.gov.au/specialty-guides/covid-19/resources.html)
 
 
-![Asthma](images/asthma.PNG)
+![Asthma]({{site.baseurl}}/assets/images/asthma.PNG)
 
 [ADDITIONAL TREATMENTS](https://www.asthmahandbook.org.au/acute-asthma/clinical/add-on-treatment)
 
