@@ -2,10 +2,6 @@
 # This file contains configuration flags to customize your site
 #
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url: "http://127.0.0.1:4000/REPO/"
-
 # Replace SITE_URL with your website URL
 # (for example, https://username.github.io/repository-name/)
 url: "SITE_URL"
@@ -83,7 +79,7 @@ commonmark:
 sass:
   style: :expanded # You might prefer to minify using :compressed
 
-paginate: 6
+paginate: 2
 paginate_path: /blog/page:num/
 
 # Use the following plug-ins
