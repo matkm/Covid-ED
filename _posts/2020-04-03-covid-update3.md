@@ -20,7 +20,7 @@ continues.
 
 COVID has it’s own CareSet in eMR:
 
-![](/assets/images/covid-careset.jpg)
+![]({{site.baseurl}}/assets/images/covid-careset.jpg)
 
 ### PPE update
 
@@ -113,7 +113,7 @@ we have been practicing.
 
 Please come and see the NUMs if any concerns.
 
-![](/assets/images/masks.jpg)
+![]({{site.baseurl}}/assets/images/masks.jpg)
 
 ### Tea room social distancing
 
@@ -174,7 +174,7 @@ Balance: Meditation is offering free one year subscriptions to their app
 
 ### Mental health presentation pathway
 
-![](/assets/images/mental-health-pathway.jpg)
+![]({{site.baseurl}}/assets/images/mental-health-pathway.jpg)
 
 ### PETS OF RPA ED
 
@@ -183,7 +183,7 @@ distancing but has a big nose and fluffy bum and a stack of treats to
 keep her happy. Obsessed with toys and loves a sneaky kiss and run. Is
 scared of horses though….
 
-![](/assets/images/sarabi.jpg)
+![]({{site.baseurl}}/assets/images/sarabi.jpg)
 
 > Mr Sleepy (white), 9 years old, belligerent, stays out In other
 people’s homes for days at a time. Can open doors on his own. The
