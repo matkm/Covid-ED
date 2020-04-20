@@ -20,7 +20,7 @@ continues.
 
 COVID has it’s own CareSet in eMR:
 
-![]({{site.baseurl}}/assets/images/covid-careset.jpg)
+![](/assets/images/covid-careset.jpg)
 
 ### PPE update
 
@@ -113,7 +113,7 @@ we have been practicing.
 
 Please come and see the NUMs if any concerns.
 
-![]({{site.baseurl}}/assets/images/masks.jpg)
+![](/assets/images/masks.jpg)
 
 ### Tea room social distancing
 
@@ -174,7 +174,7 @@ Balance: Meditation is offering free one year subscriptions to their app
 
 ### Mental health presentation pathway
 
-![]({{site.baseurl}}/assets/images/mental-health-pathway.jpg)
+![](/assets/images/mental-health-pathway.jpg)
 
 ### PETS OF RPA ED
 
@@ -183,14 +183,14 @@ distancing but has a big nose and fluffy bum and a stack of treats to
 keep her happy. Obsessed with toys and loves a sneaky kiss and run. Is
 scared of horses though….
 
-![]({{site.baseurl}}/assets/images/sarabi.jpg)
+![](/assets/images/sarabi.jpg)
 
 > Mr Sleepy (white), 9 years old, belligerent, stays out In other
 people’s homes for days at a time. Can open doors on his own. The
 Kitten (ginger), 1 yr old, basically a puppy, very needy, quite stupid
 but cute. These 2 own Bronte.
 
-![]({{site.baseurl}}/assets/images/mrsleepy.jpg)
+![](/assets/images/mrsleepy.jpg)
 
 **KEEP SAFE DELIGHTFUL PEOPLE,**
 
